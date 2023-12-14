@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DaniyarGilimov
-- 👀 I’m interested in 3d presence and computer vision
-- 💞️ I’m looking to collaborate on 3d fusion using depth and texture map 
-- 📫 My email: Daniyargilimov@gmail.com
+- 👋 Yo Yo Yo 1-4-8 3 to the 3 to the 6 to the 9. Representing the ABQ. What up BIATCH! Leave at the tone.
 
 <!---
 DaniyarGilimov/DaniyarGilimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
